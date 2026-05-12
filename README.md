@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Customer-Churn-Analysis-using-PowerBI-Dashboard
 ## Project Overview
 This project focuses on analyzing customer churn behavior using an interactive Power BI dashboard. The aim is to identify patterns, key drivers, and insights that help businesses reduce customer churn and improve retention.
 
